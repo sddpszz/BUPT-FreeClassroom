@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/search/room/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#43B0D1",
+    "backgroundColor": "#43B0D1",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "white",
+    "backgroundTextStyle": "light"
+  }
+}
